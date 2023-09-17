@@ -16,7 +16,11 @@ module.exports = {
       colors: {
         "transparent-white": "rgba(255, 255, 255, 0.87)",
       },
-    },
+      body: {
+        center: true,
+
+      },
   },
   plugins: [],
+},
 };
